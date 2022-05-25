@@ -1,10 +1,7 @@
 Hi there 👋
 QepwebSafor/apiqepbitses is a ✨ special ✨ repository because its README.md appears on my GitHub profile.
 
-Tutorial_Git-GitHub
-Comandos git
-
-El flujo de trabajo en GitHub con Git
+Es una api para una aplicación que permite dibujar  en el canvas y organizar los dibujos según los usuarios
 
 Creado por Quica Espi Puig
 
