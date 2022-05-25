@@ -8,9 +8,9 @@ El flujo de trabajo en GitHub con Git
 
 Creado por Quica Espi Puig
 
-Es un blog público disponible en https://github.com/QepwebSafor/Tutorial_Git-GitHub.git
+Es un blog público disponible en https://github.com/QepwebSafor/apiqepbitses.git
 
-Página web: https://qepwebsafor.github.io/Tutorial_Git-GitHub/
+Página web: https://qepwebsafor.github.io/apiqepbitses/
 
 🔭 I’m currently working on ...
 🌱 I’m currently learning ...
